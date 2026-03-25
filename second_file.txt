@@ -1,1 +1,3 @@
-first line in second file 
+Chapter 2
+
+This is Chapter 2
